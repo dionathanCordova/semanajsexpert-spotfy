@@ -6,4 +6,4 @@ server
   .listen(config.port)
   .on("listening", () => logger.info("Server listening on port 3000"));
 
-// todo continuar aula 1 44:47
+// todo continuar aula 1 1:00:00
